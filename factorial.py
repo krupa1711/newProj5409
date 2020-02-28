@@ -10,7 +10,7 @@ def factorial(n):
 
 f = open("random_number.txt", "r")
 list1=f.readlines()
-print(list1)
+
 
 for i in list1:
     N=i

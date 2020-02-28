@@ -1,5 +1,4 @@
 import time
-import csv
 import random
 file = open("random_number.txt","r")
 
